@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="log_in">Log In</string>
+    <string name="about_us">About Us</string>
+    <string name="title_activity_parking">Smart Parking</string>
+    <string name="view_history">View History</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
